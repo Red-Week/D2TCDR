@@ -11,7 +11,9 @@ D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation.
 Data processing:
 ```bash
 python process.py
+```
 
 Training and evaluation:
 ```bash
 python main.py
+```
