@@ -1,6 +1,8 @@
 # D2TCDR
 D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation.
 
+The implementation of the Diffusion Model refers to [DiffuRec](https://github.com/WHUIR/DiffuRec).
+
 ## Requirements
 
 * python 3.8.19
